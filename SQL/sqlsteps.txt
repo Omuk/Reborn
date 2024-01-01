@@ -1,0 +1,23 @@
+
+Install Mysql Community Server, Python, if Haven't Yet
+
+1. Install Python SQL Connector 
+     pip install mysql-connector-python
+
+2. Install Python Libraries if haven't yet like numpy  
+
+4. Install Mysql Community Server if Haven't Yet
+
+3. Import necessary Libraries into file 
+    import pandas as pd 
+    import numpy as np 
+    import mysql.connector 
+    from mysql.connector import Error
+
+4.Write Code to Connect to Mysql Server
+
+5.
+
+6.
+
+7.
